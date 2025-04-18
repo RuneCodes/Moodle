@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="TODO">
-    <img src="static/logo.png" alt="Logo" width="800" height="320">
+    <img src="static/logo.png" alt="Logo" width="800" height="260">
   </a>
 
   <h3 align="center">Moodle</h3>
@@ -41,8 +41,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="static/demo.png" alt="Logo" width="750" height="750">
+<p align="center">
+  <img src="static/demo.png" alt="Logo" width="800" height="750">
+</p>
 
 Welcome! Moodle is a web app for visualizing and analyzing sound data. Manually using matplotlib to generate graphs for audio analysis can be tedious, but with Moodle it's a breeze!
 
