@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+
+.graph {
+    float: below;
+    max-width: 100%;
+}
+
+.graphs {
+    max-width: 50%;
+    max-height: 100vh;
+    margin: auto;
+    float: left;
+}
+
+h1 {
+    line-height: 70px;
+}
+
+h6 {
+    padding: 3%;
+}
+.submit_button_box {
+    padding: 7%;
+}
+
+.error {
+    color: red;
+}
+
+.caveat {
+    float: below;
+    vertical-align: bottom;
+    transform: translate(0px, 70px);
+}
+
+.caveat p {
+    font-size: 10px;
+}
+
+.homepage_text {
+    padding-top: 10%;
+    float: below;
+}
